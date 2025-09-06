@@ -1,0 +1,6 @@
+# Libraries needed to run this project
+tensorflow>=2.8
+numpy
+streamlit>=1.10
+Pillow
+matplotlib
